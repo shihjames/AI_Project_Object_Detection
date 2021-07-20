@@ -1,4 +1,5 @@
 # AI_Project
+## Detect Traffic Density with Video Recognition to Empower Smart City
 
 ## Introduction
 * Inspired by Toyota’s prototype "city" of the future — Woven City.
