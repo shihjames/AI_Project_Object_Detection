@@ -12,7 +12,10 @@
 
 ## Methodology
 * Model Selection: We apply the YOLOv3 (You only Look Once) model for vehicle detection and run it in Google Colab Notebook with a free GPU.
-* Data Preprocessing: (1) Selected x images randomly from the MIO-TCD data set and split the data into training, validation and testing set. (2) In order to fit our data to the model, we resized images into the same size, preprocess label data to the required format, and create a text file for each image. (3) Each text file contains the class of the object, the x and y coordinate at the center of the label, and the width and height of the label (normalized).
+* Data Preprocessing: 
+  (1) Selected x images randomly from the MIO-TCD data set and split the data into training, validation and testing set. 
+  (2) In order to fit our data to the model, we resized images into the same size, preprocess label data to the required format, and create a text file for each image. 
+  (3) Each text file contains the class of the object, the x and y coordinate at the center of the label, and the width and height of the label (normalized).
 
 ## Results
 * We've trained our model with 30 epoch and 60 epoch, our training losses keep descending and finally reach plateau. Our validation loss is very close to our train loss that determines that it's not overfitting.
