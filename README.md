@@ -20,7 +20,7 @@
 ## Results
 * We've trained our model with 30 epoch and 60 epoch, our training losses keep descending and finally reach plateau. Our validation loss is very close to our train loss that determines that it's not overfitting.
 * 
-![example](https://user-images.githubusercontent.com/68275741/185775675-9519dc3e-9812-4401-a2e2-2e170b97f5db.jpeg) ![curve](https://user-images.githubusercontent.com/68275741/185775676-23917a09-1511-4e8f-b65c-8cb6e3273294.png)
+<img src="https://user-images.githubusercontent.com/68275741/185775675-9519dc3e-9812-4401-a2e2-2e170b97f5db.jpeg"> <img src="https://user-images.githubusercontent.com/68275741/185775676-23917a09-1511-4e8f-b65c-8cb6e3273294.png">
 
 ## Conclusions
 * Our result performed 0.7 in mAP 0.5 and 0.5 in mAP 0.5:0.95.
