@@ -19,8 +19,6 @@
 
 ## Results
 * We've trained our model with 30 epoch and 60 epoch, our training losses keep descending and finally reach plateau. Our validation loss is very close to our train loss that determines that it's not overfitting.
-* 
-<img src="https://user-images.githubusercontent.com/68275741/185775675-9519dc3e-9812-4401-a2e2-2e170b97f5db.jpeg" width="500"> <img src="https://user-images.githubusercontent.com/68275741/185775676-23917a09-1511-4e8f-b65c-8cb6e3273294.png" width="500">
 
 ## Conclusions
 * Our result performed 0.7 in mAP 0.5 and 0.5 in mAP 0.5:0.95.
@@ -30,3 +28,5 @@
 * Detect traffic density using live CCTV camera to manage traffic flow in real-time.
 * Use connected networks and cloud technologies to combine additional data sources such as in-vehicle GPSs, weather data and street conditions, etc. 
 * Multiple connected data with sophisticated data analysis and AI capabilities for an interconnected system that can power smart decisions to create smarter cities.
+
+<img src="https://user-images.githubusercontent.com/68275741/185775675-9519dc3e-9812-4401-a2e2-2e170b97f5db.jpeg" width="500"> <img src="https://user-images.githubusercontent.com/68275741/185775676-23917a09-1511-4e8f-b65c-8cb6e3273294.png" width="500">
